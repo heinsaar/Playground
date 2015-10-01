@@ -5,8 +5,6 @@
 #include <chrono>
 #include <iostream>
 
-int m = std::numeric_limits<int>::max();
-
 int main()
 {
     // Generate data
