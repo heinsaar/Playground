@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\FirstGitHubProject\FirstGitHubProject\sortedarray.cpp">
+    <ClCompile Include="sortedarray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
