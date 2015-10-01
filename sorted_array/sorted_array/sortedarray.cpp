@@ -16,7 +16,7 @@ int main()
         data[c] = std::rand() % 256;
     }
     
-    // With this, the primary loop runs faster; why?
+    // With sort, the primary loop runs faster; why?
     std::sort(data, data + SIZE);
 
     auto start = std::chrono::steady_clock::now();
