@@ -15,8 +15,7 @@ int main()
     {
         data[c] = std::rand() % 256;
     }
-
-
+    
     // With this, the primary loop runs faster; why?
     std::sort(data, data + SIZE);
 
