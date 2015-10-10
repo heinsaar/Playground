@@ -13,7 +13,8 @@ void test_array()
         data[c] = std::rand() % 256;
     }
 
-    // With sort, the primary loop runs faster; why?
+    // With sort, the primary loop runs faster; why? 
+    // Why?
     std::sort(data, data + SIZE);
 
     auto start = std::chrono::steady_clock::now();
