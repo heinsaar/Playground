@@ -8,3 +8,4 @@ sorted_array/sorted_array/x64/Debug/sorted_array.log
 sorted_array/x64/Debug/sorted_array.pdb
 sorted_array/x64/Debug/sorted_array.exe
 *.pdb
+*.suo
