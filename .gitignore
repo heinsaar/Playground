@@ -1,0 +1,10 @@
+*.tlog
+*.obj
+sorted_array/sorted_array/x64/Debug/vc140.idb
+*.sdf
+sorted_array/sorted_array.opensdf
+sorted_array/sorted_array/x64/Debug/sorted_array.log
+*.ilk
+sorted_array/x64/Debug/sorted_array.pdb
+sorted_array/x64/Debug/sorted_array.exe
+*.pdb

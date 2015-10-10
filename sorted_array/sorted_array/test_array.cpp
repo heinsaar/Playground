@@ -1,11 +1,8 @@
 #include <algorithm>
 #include <iostream>
-#include <vector>
 #include <chrono>
-#include <deque>
-#include <list>
 
-int main()
+void test_array()
 {
     // Generate data
     const int SIZE = 1500;
@@ -15,7 +12,7 @@ int main()
     {
         data[c] = std::rand() % 256;
     }
-    
+
     // With sort, the primary loop runs faster; why?
     std::sort(data, data + SIZE);
 
@@ -23,7 +20,7 @@ int main()
 
     long sum = 0;
 
-    for (int i = 0; i < 100; ++i)
+    for (int i = 0; i < 777; ++i)
     {
         // Primary loop
         for (int k = 0; k < SIZE; ++k)
