@@ -21,5 +21,8 @@
     <ClCompile Include="test_array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="leo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
