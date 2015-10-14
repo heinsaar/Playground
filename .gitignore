@@ -8,9 +8,7 @@ sorted_array/sorted_array/x64/Debug/sorted_array.log
 sorted_array/x64/Debug/sorted_array.pdb
 sorted_array/x64/Debug/sorted_array.exe
 *.pdb
-<<<<<<< HEAD
 *.suo
 *.psess
-=======
-*.suo
->>>>>>> origin/master
+*.vsp
+sorted_array/sorted_array/x64/Debug/sorted_array.Build.CppClean.log

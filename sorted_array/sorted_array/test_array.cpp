@@ -38,5 +38,5 @@ void test_array()
     std::chrono::duration<double> duration = end - start;
     std::cout << duration.count() << std::endl;
     std::cout << "sum = " << sum << std::endl;
-    std::cin.get();
+//    std::cin.get();
 }
