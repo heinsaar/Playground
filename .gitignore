@@ -12,3 +12,4 @@ sorted_array/x64/Debug/sorted_array.exe
 *.psess
 *.vsp
 sorted_array/sorted_array/x64/Debug/sorted_array.Build.CppClean.log
+*.suo
