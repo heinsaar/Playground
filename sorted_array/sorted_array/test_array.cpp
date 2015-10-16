@@ -8,7 +8,7 @@ void test_array()
     const int SIZE = 1500;
     int data[SIZE];
 
-    for (int c = 0; c < SIZE; ++c)
+    for (int c = 0; c < SIZE; c++)
     {
         data[c] = std::rand() % 256;
     }
