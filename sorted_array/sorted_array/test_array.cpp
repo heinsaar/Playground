@@ -5,7 +5,7 @@
 void test_array()
 {
     // Generate data
-    const int SIZE = 1500;
+    const int SIZE = 150;
     int data[SIZE];
 
     for (int c = 0; c < SIZE; c++)
