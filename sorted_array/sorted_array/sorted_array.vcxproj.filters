@@ -24,6 +24,9 @@
     <ClCompile Include="leo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="test_vector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arakel.h">

@@ -1,12 +1,13 @@
 #include <algorithm>
 #include <iostream>
+#include <vector>
 #include <chrono>
 
-void test_array()
+void test_vector()
 {
     // Generate data
     const int SIZE = 20000;
-    int data[SIZE];
+    std::vector<int> data(SIZE);
 
     for (int c = 0; c < SIZE; c++)
     {
@@ -14,7 +15,7 @@ void test_array()
     }
 
     // With sort, the primary loop runs faster; why? 
-    std::sort(data, data + SIZE);
+    std::sort(std::begin(data), std::end(data));
 
     auto start = std::chrono::steady_clock::now();
 

@@ -22,6 +22,7 @@
     <ClCompile Include="leo.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="test_array.cpp" />
+    <ClCompile Include="test_vector.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arakel.h" />
