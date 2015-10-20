@@ -6,7 +6,7 @@
 void test_vector()
 {
     // Generate data
-    const int SIZE = 20000;
+    const int SIZE = 2000;
     std::vector<int> data(SIZE);
 
     for (int c = 0; c < SIZE; c++)
@@ -21,7 +21,7 @@ void test_vector()
 
     long sum = 0;
 
-    for (int i = 0; i < 25000; ++i)
+    for (int i = 0; i < 2500; ++i)
     {
         // Primary loop
         for (int k = 0; k < SIZE; ++k)
