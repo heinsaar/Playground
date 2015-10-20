@@ -9,3 +9,10 @@ sorted_array/x64/Debug/sorted_array.pdb
 sorted_array/x64/Debug/sorted_array.exe
 *.pdb
 *.suo
+*.psess
+*.vsp
+sorted_array/sorted_array/x64/Debug/sorted_array.Build.CppClean.log
+*.suo
+sorted_array/.vs/sorted_array/v14/.suo
+*.suo
+*.suo

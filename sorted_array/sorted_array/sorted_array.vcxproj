@@ -22,6 +22,10 @@
     <ClCompile Include="leo.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="test_array.cpp" />
+    <ClCompile Include="test_vector.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Arakel.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{6E3B29AB-261E-490D-BADC-1F4AF69D37DB}</ProjectGuid>
@@ -92,6 +96,7 @@
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <Profile>true</Profile>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
