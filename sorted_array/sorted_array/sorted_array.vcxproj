@@ -26,6 +26,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arakel.h" />
+    <ClInclude Include="Davit.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{6E3B29AB-261E-490D-BADC-1F4AF69D37DB}</ProjectGuid>
