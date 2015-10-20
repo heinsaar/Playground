@@ -32,5 +32,8 @@
     <ClInclude Include="Arakel.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Davit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
