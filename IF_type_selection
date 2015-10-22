@@ -1,0 +1,15 @@
+
+
+template <bool, class L, class R> struct IF             { typedef R type; }; // primary template
+template <      class L, class R> struct IF<true, L, R> { typedef L type; }; // partial specialization
+
+template <class T, unsigned int CAPACITY>
+class Queue
+{
+    T array[CAPACITY];
+
+    typename IF<(CAPACITY <= 256),
+        unsigned char, // CAPACITY <= 256
+        unsigned int   // CAPACITY >  256
+    >::type size;
+};
