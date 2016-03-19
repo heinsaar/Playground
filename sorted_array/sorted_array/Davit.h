@@ -2,5 +2,5 @@
 
 class Davit
 {
-
+    int m;
 };
