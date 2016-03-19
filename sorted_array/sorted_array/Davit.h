@@ -2,7 +2,7 @@
 
 class Davit
 {
-    int mleo;
-    int mhaik;
+    int mLeo;
+    int mHaik;
     int mLilit;
 };
