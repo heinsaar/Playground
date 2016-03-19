@@ -4,5 +4,6 @@ class Davit
 {
     int mleo;
     int mhaik;
-    int x;
+    int mzhanna;
+
 };
