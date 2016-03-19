@@ -3,5 +3,4 @@
 class Davit
 {
     int m;
-    int lilit;
 };
