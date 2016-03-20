@@ -2,17 +2,12 @@
 
 class Davit
 {
-<<<<<<< HEAD
-    int mleo;
-    int mhaik;
-    int mzhanna;
-
-=======
     int mLeo;
     int mHaik;
     int mLilit;
     int mDiana;
     int mLiana;
+    int mArmine;
+    int mChinar;
     int mZhanna;
->>>>>>> refs/remotes/heinsaar/master
 };
