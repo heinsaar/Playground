@@ -6,5 +6,5 @@ class Davit
     int mHaik;
     int mLilit;
     int mDiana;
-    int Liana;
+    int mLiana;
 };
