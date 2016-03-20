@@ -13,6 +13,5 @@ class Davit
     int mLilit;
     int mDiana;
     int mLiana;
-	int mDddd;
 >>>>>>> refs/remotes/heinsaar/master
 };
