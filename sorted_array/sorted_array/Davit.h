@@ -2,6 +2,10 @@
 
 class Davit
 {
-    int mleo;
-    int mhaik;
+    int mLeo;
+    int mHaik;
+    int mLilit;
+    int mDiana;
+    int mLiana;
+    int mArmine;
 };
