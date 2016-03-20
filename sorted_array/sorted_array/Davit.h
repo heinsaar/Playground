@@ -7,5 +7,6 @@ class Davit
     int mLilit;
     int mDiana;
     int mLiana;
+    int mArmine;
     int mChinar;
 };
