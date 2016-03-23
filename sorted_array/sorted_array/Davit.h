@@ -11,4 +11,5 @@ class Davit
     int mChinar;
     int mZhanna;
     int mChrist;
+	int mAngela;
 };
