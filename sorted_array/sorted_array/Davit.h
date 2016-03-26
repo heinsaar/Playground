@@ -16,5 +16,5 @@ class Davit
     int mAngela; 
     int mLarisa;
     int mHasmik;
-	int mTatev;
+    int mTatev;
 };
