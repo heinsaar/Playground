@@ -12,4 +12,8 @@ class Davit
     int mZhanna;
     int mChrist;
     int mShushan;
+    int mSargis;
+    int mAngela; 
+    int mLarisa;
+    int mHasmik;
 };
