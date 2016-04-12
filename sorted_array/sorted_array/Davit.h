@@ -18,5 +18,5 @@ class Davit
     int mHasmik;
     int mTatev;
     int mArpine;
-	int mArthur;
+    int mArthur;
 };
